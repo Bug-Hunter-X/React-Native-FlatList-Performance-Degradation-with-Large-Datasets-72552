@@ -1,0 +1,1 @@
+This bug occurs when using the `FlatList` component in React Native with a large dataset.  The performance becomes very slow, and the app may become unresponsive. This is often due to inefficient rendering or excessive re-renders of list items.  The issue is particularly noticeable on lower-end devices.
